@@ -13,11 +13,11 @@ hunter_add_version(
     PACKAGE_NAME
     Tesseract
     VERSION
-    "3.05.01-hunter-3"
+    "3.05.01-hunter-4"
     URL
-    "https://github.com/hunter-packages/tesseract/archive/v3.05.01-hunter-3.tar.gz"
+    "https://github.com/dbrawn/tesseract/archive/v3.05.01-hunter-4.tar.gz"
     SHA1
-    0ccf9537a17634448618b21d3fd26537a26b94ae
+    fe74699e45fe3246115eeddf1d2d5b18cce13824
 )
 
 if(ANDROID OR MINGW)

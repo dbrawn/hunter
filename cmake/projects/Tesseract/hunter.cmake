@@ -20,6 +20,19 @@ hunter_add_version(
     fe74699e45fe3246115eeddf1d2d5b18cce13824
 )
 
+
+hunter_add_version(
+    PACKAGE_NAME
+    Tesseract
+    VERSION
+    "5.0.1-hunter-0"
+    URL
+    "https://github.com/dbrawn/tesseract/archive/refs/tags/5.0.1-hunter-0.zip"
+    SHA1
+    74067b2bf9587fb8e45dce153264b1a0ee32a943
+)
+
+
 if(ANDROID OR MINGW)
     hunter_cmake_args(
         Tesseract

@@ -29,7 +29,7 @@ hunter_add_version(
     URL
     "https://github.com/dbrawn/tesseract/archive/refs/tags/5.0.1-hunter-0.zip"
     SHA1
-    4e62bc28e2a84079c1c81092aceb292408faa094
+    74067b2bf9587fb8e45dce153264b1a0ee32a943
 )
 
 
